@@ -8,6 +8,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 
 
 ![DVWS](http://snoopysecurity.github.io/img/dvws.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Ftest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Ftest?ref=badge_shield)
 
 This application includes the following vulnerabilities.
 
@@ -43,3 +44,7 @@ To view a copy of this license, visit http://www.gnu.org/licenses/gpl-3.0.txt
 + JSON Hijacking
 + SOAP Injection
 + XML Injection
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Ftest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Ftest?ref=badge_large)
